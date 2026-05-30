@@ -4,13 +4,13 @@ This repo contains the data and code for my undergraduate thesis project "Assemb
 ## Abstract
 Salinity intrusion is burdening crop production in the Mekong River Delta as it directly impacts
 freshwater availability and soil quality. In this study, we seek a solution for this problem by recruiting
-halotolerant rhizobacteria from the rhizosphere of Rhizophora apiculata in the Can Gio Mangrove and
+halotolerant rhizobacteria from the rhizosphere of *Rhizophora apiculata* in the Can Gio Mangrove and
 screening for their plant growth-promoting traits, which can be inoculated into the rice seed to
 promote its growth. Across three sampling sites with increasing salinity levels, a total of 10 mildly
 halotolerant strains (i.e., can withstand 8-10% NaCl) were isolated and tested for their ability to
 produce IAA and siderophore. 
 Beyond studying the culturable bacteria, our work also dissects the metagenomic data of the
-microbiome associated with the rhizosphere of Rhizophora apiculata. Alpha diversity analysis revealed
+microbiome associated with the rhizosphere of *Rhizophora apiculata*. Alpha diversity analysis revealed
 that the low-salinity site supported the highest bacterial richness, while beta diversity indicated limited
 species-level overlap among sites. Proteobacteria consistently dominated across all sites, followed by
 Bacteroidota and Desulfobacterota. All of these taxa are known for their roles in nutrient cycling and
