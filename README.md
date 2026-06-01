@@ -21,5 +21,5 @@ microbiomes to enhance rice tolerance to salinity stress in vulnerable agroecosy
 River Delta.
 
 ## Open Science
-I developed this whole project using [QIIME2](https://qiime2.org/) and their wonderful tutorials as well as discussion forum. 
+I developed this whole project using [QIIME2](https://qiime2.org/) and their wonderful tutorials as well as discussion forum. Shoot me an email at lnpham12@asu.edu if you want the raw data to try out the pipeline in this repo!
 
