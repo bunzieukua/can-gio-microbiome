@@ -6,9 +6,10 @@
 
 
 # Set up folder and create new script file for this command
-touch Step1_Joinreads_vsearch.sh
-chmod +x Step1_Joinreads_vsearch.sh
-nano Step1_Joinreads_vsearch.sh
+mkdir 1_Joinreads
+touch 1_join_single_end_reads.sh
+chmod +x 1_join_single_end_reads.sh
+nano 1_join_single_end_reads.sh
 
 # Open the script file and run the following command to join single-end reads
 qiime vsearch merge-pairs \
