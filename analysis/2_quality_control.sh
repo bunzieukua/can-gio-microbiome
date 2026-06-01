@@ -16,3 +16,8 @@ qiime quality-filter q-score \
 --i-demux joined-reads.qza \
 --o-filtered-sequences joined-reads-filtered.qza \
 --o-filter-stats joined-reads-filtered-stats.qza
+
+# To view human-readable output
+qiime metadata tabulate 
+--m-input-file joined-reads-filtered-stats.qza 
+--o-visualization joined-reads-filtered-stats.qzv
