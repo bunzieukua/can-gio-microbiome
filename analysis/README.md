@@ -1,5 +1,6 @@
 # Workflow
 <img width="870" height="455" alt="Screenshot 2026-06-01 at 5 12 55 PM" src="https://github.com/user-attachments/assets/f61c2700-8e50-4bb3-ba7e-7aea58c14510" />
+
 Caption: Overview of the QIIME2 bioinformatics workflow. Data input is indicated in pink (solid line: this study’s
 data, dashed line: outsourced data). Data processing steps are indicated in orange, with the main purpose bolded and the
 main QIIME2 plugin in parentheses. The output files of each step are indicated in green. Final human-readable results are
