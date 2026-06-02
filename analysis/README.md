@@ -63,5 +63,5 @@ rarefied to 5000 sequences per sample.
 After rarefaction and phylogenetic tree construction, alpha diversity metrics
 (observed features, Shannon Diversity, Pielou’s Evenness, Faith’s Phylogenetic Diversity) and beta
 diversity metrics (weighted UniFract, unweighted UniFrac, Jaccard distance, and Bray-Curtis
-dissimilarity) were estimated using q2-diversity plugin. 
+dissimilarity) were estimated using q2-diversity plugin. Diversity metrics are then analyzed and visualized [HERE](https://github.com/bunzieukua/can-gio-microbiome/tree/main/figures).
 
