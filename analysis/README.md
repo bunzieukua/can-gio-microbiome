@@ -43,7 +43,7 @@ passed into the fit-classifier-naïve-bayes pipeline (via q2-feature-classifier
 plugin) to train the classifier against the SILVA 138 SSURef full-length database. Upon
 training, we validated our self-trained classifier with published data.
 
-## Taxonomic Classification. 
+## Taxonomic Classification
 Once the classifier has been trained, the representative sequences are
 input into the pipeline for taxonomic classification. Then this information was used to visualize the
 phylogenetic tree with q2-empress. The relative abundance of each taxonomy was visualized with
